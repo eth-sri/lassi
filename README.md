@@ -132,7 +132,7 @@ might not be possible.
 
 ## Reproducing the Experiments
 
-To reproduce the experiments on CelebA and FairFace, please run the following scripts.
+To reproduce the experiments, please run the following scripts.
 By default, they run the experiments for 5 random seeds, but you can control this by setting
 `--run_only_one_seed True`.
 ```bash
