@@ -9,7 +9,7 @@ generative Glow models, which allows us to capture and modify complex continuous
 provably map similar individuals close to each other. Finally, it uses randomized smoothing to verify local
 robustness of downstream applications, resulting in an individual fairness certificate of the end-to-end model.
 
-This repository contains the official implementation of our [ECCV 2022](https://arxiv.org/abs/2111.13650) paper,
+This repository contains the official implementation of our [ECCV 2022](https://www.sri.inf.ethz.ch/publications/peychev2022latent) paper,
 developed at the [SRI Lab, Department of Computer Science, ETH Zurich](https://www.sri.inf.ethz.ch)
 as a part of the [Safe AI project](http://safeai.ethz.ch).
 
