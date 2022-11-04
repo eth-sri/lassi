@@ -158,7 +158,7 @@ To aggregate the results in a given `.out` file, you can use the `analyse_result
 ```
 @inproceedings{peychev2022latent,
     title={Latent Space Smoothing for Individually Fair Representations},
-    author={Peychev, Momchil and Ruoss, Anian and Balunovi{\'{c}}, Mislav and Baader, Maximilian and Vechev, Martin},
+    author={Momchil Peychev and Anian Ruoss and Mislav Balunovi{\'{c}} and Maximilian Baader and Martin Vechev},
     booktitle={Computer Vision -- ECCV 2022},
     year={2022},
     pages={535--554},
