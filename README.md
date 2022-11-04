@@ -153,6 +153,19 @@ To aggregate the results in a given `.out` file, you can use the `analyse_result
 (lassi) lassi/src/pipelines $ python analyse_results.py --out_file [OUT_FILE]
 ```
 
+## Citing This Work
+
+```
+@inproceedings{peychev2022latent,
+    title={Latent Space Smoothing for Individually Fair Representations},
+    author={Peychev, Momchil and Ruoss, Anian and Balunovi{\'{c}}, Mislav and Baader, Maximilian and Vechev, Martin},
+    booktitle={Computer Vision -- ECCV 2022},
+    year={2022},
+    pages={535--554},
+    organization={Springer}
+}
+```
+
 ## Contributors
 
 * [Momchil Peychev](https://www.sri.inf.ethz.ch/people/momchil) (momchil.peychev@inf.ethz.ch)
